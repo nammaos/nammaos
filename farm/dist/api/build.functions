@@ -1,0 +1,4 @@
+create_selections()
+{
+export SELECTION="xserver-xorg eclipse"
+}

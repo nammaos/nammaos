@@ -1,0 +1,7 @@
+
+smile_dist_log()
+{
+echo "smile distro: $1"
+}
+
+
